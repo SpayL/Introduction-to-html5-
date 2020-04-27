@@ -1,0 +1,31 @@
+static web page- page contains data and only displays
+dynamic-- enter email for aunthetication
+
+layout--
+1.html 2.head, body 3.title(head)meta(head)
+basic tags--
+H1,h2-headers 
+p1,p2-paragraphs
+<b> bold <i>italics
+spaces inside notepad doesnt matter
+<br/> insert a line (single tag)
+<hr/> insert a horizontal line(single tag)
+<big> <small> a little change
+<sub> used in like h20
+<sup> gives power
+
+comments--
+comments are invisible
+<!--   -->(can be of any length)
+
+Styling--
+basically css is used for styling
+<p style="colour: red; background-colour: blue"
+
+Formatting a page--
+<body>
+main three portions in body tag header,main,footer
+header{ <nav> tag for navigations}
+main{ <article> can put whole articles in this
+can use section tag}
+for different sections you would want headers and headers used in hirerachy is the best practice}
