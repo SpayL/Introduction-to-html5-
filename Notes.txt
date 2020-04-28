@@ -59,3 +59,19 @@ Description list
 <dl> <dt>apples</dt> 
 <dd>-   </dd> </dl>
 description term -dt 
+**Tables--**
+<table>
+<tbody>
+<thead>
+<caption> 
+<tr>(table row)
+<td colspan="2">(colspan inc the column space taken) (table data)
+<th>(table header)
+adjust itself
+**Divs and Spans--**
+cointainer-set of tags  its good to wrap tags 
+spans are inline cointainer
+divs are block cointainer
+<span>
+<div>
+block/inline
