@@ -75,3 +75,19 @@ divs are block cointainer
 <span>
 <div>
 block/inline
+**input and forms--**
+javascript is used to get information 
+<input type="text value="enter your useername" />
+<input type="password" />
+<textarea>
+rows cols
+<input type="date">
+type= range/file/checkbox/
+radio(check only one at time)
+**iframes--**
+<iframe src=" "> </iframe>
+embedd another website in yours!!
+**metatags--**
+lies in head <meta charset>
+<meta name="viewport" content="width=devide-width, initial-scale=1.0"
+Can google other meta tags
