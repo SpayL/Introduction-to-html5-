@@ -29,3 +29,33 @@ header{ <nav> tag for navigations}
 main{ <article> can put whole articles in this
 can use section tag}
 for different sections you would want headers and headers used in hirerachy is the best practice}
+**Links--**
+used to link my websites with other websites
+<a href="https://www.google.com">Google homepage</a>
+for opening in a new tab "" target="_blank"
+link other page <a href=" "
+if all the pages are not in same folders then have to insert the whole address of the page 
+**Images--**
+<img src="LOCATION OF IMAGE" alt =" " />
+ (single tag)
+location of image  
+if the image doesnt show up use alt
+size og image :: width height
+**Videos on website--**
+<video src="location of video and name" poster="thumbnail" controls width=" "></video>
+autoplay
+loop
+include youtube video-- go to  the vieo on yb and click on share and embed code will pop out(IFRAME)
+**Lists--**
+Un oredered list --
+<ul> 
+<li>Aplles</li>
+<li>Oranges</li>
+</ul> (a circle will display) 
+<ol> numeric form will form
+for styling <ol type='i' 'a'
+we can make list inside the list
+Description list
+<dl> <dt>apples</dt> 
+<dd>-   </dd> </dl>
+description term -dt 
